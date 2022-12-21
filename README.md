@@ -13,8 +13,8 @@ Condensed repeating lines of code in CSS.
 
 ## Links
 
-Github Repo: https://github.com/Shelcisco/Refactoring-Challenge.git
-Website: 
+<li>Github Repo: https://github.com/Shelcisco/Refactoring-Challenge.git</li>
+<li>Website: http://127.0.0.1:5500/index.html</li>
 
 
 
